@@ -12,36 +12,42 @@ c 写真から判断できることしか答えにならない
 
 必須単語
 
-| No. | English | Japanease |  
-|:---|:---|:---|  
-|1 |occupied|占められている|
-|2 |unoccupied|空いている|
+| English | Japanease |  
+|:---|:---|  
+|occupied|占められている|
+|unoccupied|空いている|
 
 頻出 動作表現
 
-| No. | English | Japanease |  
-|:---|:---|:---|  
-|1 |**talking** on the phone |電話で**話をしている** |
-|2 |**fixing** the computer|コンピュータを**修理している**|
-|３ |**facing** each other|互いに**向き合っている**|
-|4 |**shaking hands**|**握手をしている**|
-|5 |**waiting** in a line|列に並んで**待っている**|
-|6 |**walking** side by side|コンピュータを修理している|
-|7 |**drawing** a picture|絵を**描いている**|
-|8 |**addressing** the audience|聴衆に**演説している**|
-|9 |**arranging** the table|テーブルを**並べている**|
-|10 |**pushing** the cart|カートを**押している**|
-|11 |**mowing** the lawn|芝生を**刈っている**|
-|12 |**feeding** animals|動物に**餌をあげている**|
-|13 |**pointing at** the chart|チャートを**さしてしている**|
-|14 |**signing** a CONTRACT|契約書に**署名している**|
-|15 |**digging** a hole|穴を**掘っている**|
-|16 |**working on** the car|車を**修理している**|
-|17 |**climbing** the ladder|はしごを**よじ登っている**|
-|18 |**boarding** the plane|飛行機に**搭乗する**|
-|19 |**unloading** the cargo|貨物を**降ろしている**|
-|20 |**filling out** a form|用紙に**記入している**|
-
+|English | Japanease |  
+|:---|:---|  
+|**talking** on the phone |電話で**話をしている** |
+|**fixing** the computer|コンピュータを**修理している**|
+|**facing** each other|互いに**向き合っている**|
+|**shaking hands**|**握手をしている**|
+|**waiting** in a line|列に並んで**待っている**|
+|**walking** side by side|コンピュータを修理している|
+|**drawing** a picture|絵を**描いている**|
+|**addressing** the audience|聴衆に**演説している**|
+|**arranging** the table|テーブルを**並べている**|
+|**pushing** the cart|カートを**押している**|
+|**mowing** the lawn|芝生を**刈っている**|
+|**feeding** animals|動物に**餌をあげている**|
+|**pointing at** the chart|チャートを**さしてしている**|
+|**signing** a CONTRACT|契約書に**署名している**|
+|**digging** a hole|穴を**掘っている**|
+|**working on** the car|車を**修理している**|
+|**climbing** the ladder|はしごを**よじ登っている**|
+|**boarding** the plane|飛行機に**搭乗する**|
+|**unloading** the cargo|貨物を**降ろしている**|
+|**filling out** a form|用紙に**記入している**|
+|**leaning against** the wall|壁に**もたれている**|
+|**bending** over　the produce|農作物の上に**かがんでいる**|
+|**kneeling** down|**ひざまずいている**|
+|**resting one's chin on one's hand**|**ほおづえをついている**|
+|**crossing** one's legs|脚を**組んでいる**|
+|**waving** at|**手を降っている**|
+|**filling** one's car|車ガソリンを**入れている**|
 
 ### Part2. 応答問題(25問)
 
